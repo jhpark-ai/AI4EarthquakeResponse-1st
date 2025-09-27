@@ -89,7 +89,7 @@ The challenge simulates rapid damage assessment after earthquakes, leveraging Ea
 
 We mitigate domain shift by applying histogram matching (see `hist_matching.png`) to align color distributions between the training and test scenes. In practice, we match per-channel histograms from the training distribution to the target (test) distribution using a small subset of test tiles as references. This preserves spatial structure while normalizing tonal differences across satellites/regions.
 
-![Histogram Matching for Domain Adaptation](hist_matching.png)
+![Histogram Matching for Domain Adaptation](fig/hist_matching.png)
 
 ---
 

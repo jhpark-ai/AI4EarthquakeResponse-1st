@@ -1,8 +1,7 @@
 # AI for Earthquake Response [TelePIX]
 
-**Challenge:** [AI for Earthquake Response Challenge](https://ai4eo.eu/portfolio/ai-for-earthquake-response/)
+**Paper:** [Artificial Intelligence for Earthquake Response: Outcomes and insights from a global spaceborne rapid mapping challenge](https://ieeexplore.ieee.org/abstract/document/11373906)
 
----
 
 ## Table of Contents
 - [Overview](#overview)

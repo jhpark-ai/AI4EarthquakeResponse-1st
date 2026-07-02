@@ -1,4 +1,4 @@
-# AI for Earthquake Response — 1st Place Solution [TelePIX]
+# AI for Earthquake Response [TelePIX]
 
 **Challenge:** [AI for Earthquake Response Challenge](https://ai4eo.eu/portfolio/ai-for-earthquake-response/)
 
